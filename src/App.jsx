@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useRef } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import {
-  Menu, X, ShoppingCart, Search, Info, Check, ChevronRight, ChevronLeft,
+  Menu, X, ShoppingCart, Search, Info, Check, ChevronRight, ChevronLeft, ChevronDown,
   Star, Leaf, Facebook, Twitter, Instagram, Globe, Plus, Minus, Tag, MapPin, CheckCircle
 } from "lucide-react";
 import cx from "classnames";
